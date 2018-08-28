@@ -21,4 +21,10 @@ docker run -v /KiwixData:/kiwix-data -p 8080:8080 smartkit/kiwix-server wikispec
 
 ## Kiwix TED ### 
 
+## WikiLeaks ###
+
+```
+docker run -v /Users/yangboz/Documents/KiwixData:/kiwix-data -p 8080:8080 smartkit/kiwix-server wikileaks_en_afghanistan-war-diary.zim 
+```
+
 
