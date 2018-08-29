@@ -11,12 +11,12 @@ docker run -v /KiwixData:/kiwix-data -p 8080:8080 smartkit/kiwix-server wikispec
 ```
 ### Kiwix data overview
 
-![wikipedia1.png](https://github.com/jasiek/dockerized-kiwix-server/raw/master/snaps/KiwixLibrary.jpg)
+![kiwix.png](https://github.com/yangboz/dockerized-kiwix-server/raw/master/snaps/KiwixLibrary.jpg)
 
 ## Kiwix Wikipedia ### 
 
-![wikipedia1.png](https://github.com/jasiek/dockerized-kiwix-server/raw/master/snaps/wikipedia1.png)
-![wikipedia2.png](https://github.com/jasiek/dockerized-kiwix-server/raw/master/snaps/wikipedia2.png)
+![wikipedia1.png](https://github.com/yangboz/dockerized-kiwix-server/raw/master/snaps/wikipedia1.png)
+![wikipedia2.png](https://github.com/yangboz/dockerized-kiwix-server/raw/master/snaps/wikipedia2.png)
 
 
 ## Kiwix WikiVoyage ### 
