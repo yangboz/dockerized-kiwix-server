@@ -9,11 +9,15 @@ dockerized-kiwix-server
 ```
 docker run -v /KiwixData:/kiwix-data -p 8080:8080 smartkit/kiwix-server wikispecies_en_all_novid_2018-06.zim
 ```
+### Kiwix data overview
+
+![wikipedia1.png](https://github.com/jasiek/dockerized-kiwix-server/raw/master/snaps/KiwixLibrary.jpg)
+
+## Kiwix Wikipedia ### 
 
 ![wikipedia1.png](https://github.com/jasiek/dockerized-kiwix-server/raw/master/snaps/wikipedia1.png)
 ![wikipedia2.png](https://github.com/jasiek/dockerized-kiwix-server/raw/master/snaps/wikipedia2.png)
 
-## Kiwix Wikipedia ### 
 
 ## Kiwix WikiVoyage ### 
 
@@ -28,7 +32,7 @@ docker run -v /Users/yangboz/Documents/KiwixData:/kiwix-data -p 8080:8080 smartk
 ```
 
 
-How?
+And How?
 =================
 
 ## Step 1: Download some ZIM files
@@ -76,3 +80,10 @@ $ docker stop <container id>
 
 Go to http://localhost:8080.
 
+## References
+
+http://wiki.kiwix.org/wiki/Kiwix-plug
+
+https://github.com/jasiek/dockerized-kiwix-server
+
+https://github.com/jonboiser/dockerized-kiwix-server
