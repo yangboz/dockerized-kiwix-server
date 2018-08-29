@@ -37,7 +37,7 @@ How?
 
 Here are some smaller ones for testing:
 
-1. [Assamese Medical Wikipedia (23 MB)](https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_as_medicine_2017-08.zim)
+1. [Assamese Medical Wikipedia (27 MB)](https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_as_medicine_2018-07.zim)
 1. [English Wikipedia Bollywood Articles (265 MB)](https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_bollywood_2017-01.zim)
 1. [Simple English Wikipedia w/ No Pictures (159 MB)](https://ftp.fau.de/kiwix/zim/wikipedia/wikipedia_en_simple_all_nopic_2016-08.zim)
 
