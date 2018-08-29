@@ -9,7 +9,7 @@ dockerized-kiwix-server
 ```
 docker run -v /KiwixData:/kiwix-data -p 8080:8080 smartkit/kiwix-server wikispecies_en_all_novid_2018-06.zim
 ```
-### Kiwix data overview
+### Kiwix Library overview
 
 ![kiwix.png](https://github.com/yangboz/dockerized-kiwix-server/raw/master/snaps/KiwixLibrary.jpg)
 
