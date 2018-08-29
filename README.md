@@ -87,3 +87,5 @@ http://wiki.kiwix.org/wiki/Kiwix-plug
 https://github.com/jasiek/dockerized-kiwix-server
 
 https://github.com/jonboiser/dockerized-kiwix-server
+
+http://www.openzim.org/wiki/Build_your_ZIM_file
