@@ -69,7 +69,7 @@ This starts the container and the Kiwix server, and makes it available on your m
 $ docker run -p 8080:8080 -v $PWD/zims:/kiwix-data smartkit/kiwix-server:wikinews_en_all_novid_2018-07 wikinews_en_all_novid_2018-07.zim
 ```
 
-A real example: http://118.190.3.169:8888
+A real example: https://smartkit.xyz
 
 ```
 docker run -p 8888:8080 -v $PWD/KiwixData:/kiwix-data smartkit/kiwix-server:latest archlinux_en_all_2018-06.zim tedxgeneva-2014_fr_all_2015-03.zim wikiquote_en_all_novid_2018-06.zim languagelearning.stackexchange.com_en_all_2018-03.zim wikileaks_en_afghanistan-war-diary.zim wikispecies_en_all_novid_2018-06.zim phet_en_2018-08.zim wikinews_en_all.zim wikiversity_en_all_novid_2018-06.zim phet_mul_2017-11.zim wikinews_en_all_novid_2018-07.zim wikivoyage_en_all_2018-07.zim psiram_en_all_nopic_2018-07.zim wikipedia_as_medicine_2018-07.zim ted_en_technology_2016-06.zim wikipedia_zh_medicine_nopic_2017-10.zim
